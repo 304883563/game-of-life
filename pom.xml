@@ -41,7 +41,6 @@
                 <version>2.11</version>
                 <configuration>
                     <formats>
-                        <format>html</format>
                         <format>xml</format>
                     </formats>
                     <skip>true</skip>
